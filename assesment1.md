@@ -6,39 +6,50 @@
    - `<script>`
    - `<css>`
    - `<style>`
-   - `<html>`
+   - `<html>
+   ans is style`
 
 2. Which HTML attribute is used to define inline styles?
    - `class`
    - `style`
    - `font`
    - `styles`
+   style
+
 
 3. Which property is used to change the background color?
    - `color`
    - `bgcolor`
    - `background-color`
    - `bg-color`
+   background-color
 
 4. How do you select an element with id "demo" in CSS?
    - `#demo`
    - `.demo`
    - `demo`
    - `*demo`
+   #demo
 
 5. What does CSS stand for?
    - Computer Style Sheets
    - Cascading Style Sheets
    - Creative Style Sheets
    - Colorful Style Sheets
+   cascading style sheets
 
 **Part 2: True or False**
 
 6. HTML comments start with `<!--` and end with `-->`.
+true
 7. CSS `id` selectors are used to select elements with a specific class.
+false
 8. In HTML, inline elements are normally displayed without starting a new line.
+true
 9. The CSS `display` property specifies the display behavior of an element.
+true
 10. External CSS are defined within the `<html>` tag.
+false
 
 **Part 3: Practical Questions**
 
