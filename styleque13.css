@@ -1,0 +1,8 @@
+/* Write HTML and CSS code to create a div with a class name "box" that has a width of 200px, a height of 200px, and a solid border of 2px. */
+.box{
+
+width: 200px;
+height: 200px;
+border: solid 2px;
+
+}

@@ -1,0 +1,15 @@
+.button{
+    background-color: aqua;
+    color: brown;
+}
+
+ a:hover{
+    color:black;
+    background-color:rgb(59, 1, 125);
+}
+a{
+    font-size: large;
+    text-decoration: none;
+}
+
+

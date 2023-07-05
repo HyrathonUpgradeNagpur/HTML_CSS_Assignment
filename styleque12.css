@@ -1,0 +1,4 @@
+/* 12. Create a CSS rule that selects all paragraph elements on a page and sets the font-family to "Arial". */
+p{
+font-family: Arial, Helvetica, sans-serif;
+}
