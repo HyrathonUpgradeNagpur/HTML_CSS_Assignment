@@ -59,6 +59,67 @@ ans-Cascading Style Sheets
 </html>
 `````
 12. Create a CSS rule that selects all paragraph elements on a page and sets the font-family to "Arial".
+````
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+````
 13. Write HTML and CSS code to create a div with a class name "box" that has a width of 200px, a height of 200px, and a solid border of 2px.
+````
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="box">
+    <h1>Html Css Javascript</h1>
+    </div>
+</body>
+</html>
+````
+`````
+.box {
+    width: 200px;
+    height: 200px;
+    border: solid;
+}
+`````
 14. What is the difference between "class" and "id" in CSS? Give an example of when you would use each one.
+````
+In CSS, a class is used to group more than one element, whereas an ID is used to identify a single element. A class selector is therefore used to style multiple HTML elements of the same class, while an ID selector is used to style one HTML element.
+````
 15. Write HTML and CSS code to create a link that is styled as a button (use your own color and styling preferences).
+`````
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./button.css">
+</head>
+<body>
+    
+    <button>
+        <a href="#">submit</a>
+    </button>
+    
+</body>
+</html>
+`````
+.button
+{
+    background-color: rgb(255, 51, 0);
+    border: none;
+    color: rgb(229, 128, 19);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+`````
